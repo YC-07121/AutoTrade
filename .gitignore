@@ -1,0 +1,9 @@
+# .gitignore
+venv/
+__pycache__/
+todo.py
+Config.py
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
